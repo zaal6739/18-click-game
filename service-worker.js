@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/18-click-game/precache-manifest.9e3d936c1676cc3ac66812a3d218714c.js"
+  "/18-click-game/precache-manifest.eb6372ae8462a563741f19880048c8dd.js"
 );
 
 workbox.clientsClaim();
